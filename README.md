@@ -22,6 +22,8 @@ The steps involved in this notebook are as follows:
 * [Scikit Learn](https://scikit-learn.org/stable/)
 * [Pandas](https://pandas.pydata.org/)
 * [NumPy](https://numpy.org/)
+* [Graphviz](https://graphviz.org/)
 
+### Visualising the tree
 ![xgb](https://user-images.githubusercontent.com/84118083/118371731-8f2cd280-b5cb-11eb-9a60-0ffe168e2821.png)
 
