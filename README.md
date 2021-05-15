@@ -14,7 +14,7 @@ The steps involved in this notebook are as follows:
 * Building the tree and visualising it
 
 #### Notebooks
-[Credit_Card_Defaulter_XGBoost.ipynb](https://github.com/shriyaakella/Credit_Card_Defaulter_XGBoost)
+[Credit_Card_Defaulter_XGBoost.ipynb](Credit_Card_Defaulter_XGBoost.ipynb)
 
 #### Technologies
 * [Python](https://www.python.org/)
